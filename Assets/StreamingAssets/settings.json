@@ -1,0 +1,21 @@
+{
+  "maxScore": 3,
+  "title": "PONG",
+  "quit": "escape",
+  "reset": "r",
+  "end": "x",
+  "player1Up": "w",
+  "player1Down": "s",
+  "player2Up": "up",
+  "player2Down": "down",
+  "paddleMoveSpeed": 8,
+  "ballInitialSpeed": 3,
+  "ballSpeedUp": 0.5,
+  "ballMaxSpeed": 8,
+  "pauseTimeAfterScore": 1,
+  "gameColor": [
+    255,
+    0,
+    130
+  ]
+}
